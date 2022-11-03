@@ -11,7 +11,7 @@ function Footer() {
 					href="#"
 					className="cursor-pointer font-semibold text-indigo-900 hover:text-black"
 				>
-					Streamline
+					Thamsanqa Menzi
 				</a>
 			</h1>
 		</div>

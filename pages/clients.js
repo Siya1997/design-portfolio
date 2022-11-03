@@ -12,7 +12,7 @@ function clients() {
 				<div className="w-full my-20 h-auto flex flex-col justify-center items-center">
 					<p className="text-sm uppercase text-gray-400">Clients</p>
 					<h1 className="text-indigo-900 text-6xl font-bold text-center">
-						My Clients
+						My Future Clients
 					</h1>
 					<div className="flex justify-between text-center mx-20 my-10 md:gap-10 gap-2">
 						<div className="flex justify-center items-center cursor-pointer">

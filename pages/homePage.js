@@ -19,13 +19,16 @@ function Home() {
 					</div>
 					<div className="flex flex-col md:ml-20 mx-10 mt-10">
 						<h1 className="font-bold text-7xl text-left mb-5">
-							Hello, I am <span className="text-indigo-900">Jenny</span>
+							Hello, I am <span className="text-indigo-900">Thamsanqa Menzi</span>
 						</h1>
 						<p className="text-left font-normal font mb-5 flex-wrap">
-							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis
-							aperiam placeat molestiae atque tempore perspiciatis laboriosam
-							quasi pariatur, vitae sequi veritatis veniam rerum, quos
-							consectetur commodi rem totam voluptatum? Hic!
+						Who am I?, I am a full stack developer. I'm a hard
+worker, I set high goals and I've been told I'm
+persistent. My
+motto is: If you want to win the lottery, you have to
+make the money to buy a ticket. My weapons of choice are C# - Asp.Net, for my backend dev.
+JavaScript is still teaching me how to React, coupled with CSS and HTML, I've been using these for
+front end dev. My database of choice is MS SQL Server.
 						</p>
 						<a
 							href="#"

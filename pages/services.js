@@ -18,12 +18,11 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 							<GiCardboardBox className="w-10 h-10 bg-yellow-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold">
-								Strategy & Direction
+								HTML AND CSS
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+							Front end Development work. 
 						</p>
 					</div>
 
@@ -32,12 +31,12 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 							<HiColorSwatch className="w-10 h-10 bg-red-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold">
-								Branding & Logo
+								JavaScript
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-sm sm:text-left">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+							Proficient in JavaScript and Vanilla JavaScript.
+							Building reactive webpages is a lot of fun. 
 						</p>
 					</div>
 				</div>
@@ -49,12 +48,12 @@ function services() {
 						<div className="flex justify-center items-center cursor-pointer">
 							<AiOutlineBlock className="w-10 h-10 bg-green-500 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold ">
-								Motion & Animation
+								NextJS
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+							This is my introduction to this framework, unlike React, it's a lot more
+							awesome, I'm looking forward to buiding more static webpages with this framework.
 						</p>
 					</div>
 
@@ -67,8 +66,10 @@ function services() {
 							</h2>
 						</div>
 						<p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-							Perferendis aliquid fuga, asperiores voluptas expedita nulla.
+							One of my expertise this year was developing systems using the SDLC. I had the
+							pleasure of working with business analysts to gather requirements. This was a new 
+							experience, I learnt to think of projects from a client perspective rather than just
+							my own.
 						</p>
 					</div>
 				</div>

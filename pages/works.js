@@ -1,8 +1,8 @@
 import Image from "next/image";
-import One from "../public/images/1.png";
+import One from "../public/images/1.jpg";
 import Two from "../public/images/2.jpg";
 import Three from "../public/images/3.jpg";
-import Four from "../public/images/4.jpg";
+import Four from "../public/images/4.jpg";	
 import Five from "../public/images/5.jpg";
 import Six from "../public/images/6.jpg";
 import { Element } from "react-scroll";
@@ -13,7 +13,7 @@ function works() {
 			<div className="w-full my-20 h-auto flex flex-col justify-center items-center  ">
 				<p className="text-sm uppercase text-gray-400">Portfolio</p>
 				<h1 className="text-indigo-900 text-6xl font-bold text-center">
-					All Creative Works
+					Recent Projects
 				</h1>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 h-60 shadow-xl relative">
@@ -75,9 +75,9 @@ function works() {
 				</div>
 
 				<h1 className="text-blue-900 text-base my-10">
-					Discover all projects on{" "}
+					All Projects in{" "}
 					<a href="#" className="text-black font-semibold">
-						dribbble{" "}
+						production{" "}
 					</a>
 				</h1>
 			</div>
